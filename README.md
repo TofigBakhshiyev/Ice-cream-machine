@@ -7,3 +7,6 @@ Basicly making ice cream
 
 #### Run
 - `node .\ice_cream.js`
+
+#### Result
+![Screenshot](result.png)
